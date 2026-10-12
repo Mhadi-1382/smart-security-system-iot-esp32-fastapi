@@ -29,7 +29,7 @@
 
 ## Documentation
 
-- [Project Documentation](https://github.com/Mhadi-1382/ayat/blob/main/assets/Documents/Documents.pdf)
+- [Project Documentation](https://github.com/Mhadi-1382/smart-security-system-iot-esp32-fastapi/blob/main/assets/Docs.pdf)
 
 ## License
 
