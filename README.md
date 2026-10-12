@@ -1,7 +1,5 @@
 # Smart Security System IOT ESP32 Fastapi
 
-<br />
-
 *An IoT-based smart security system powered by ESP32 and FastAPI, designed to detect potential security threats through motion detection, capture images of the monitored environment, and send real-time alerts to the relevant user. The system also provides remote control capabilities, enabling users to monitor and manage connected security devices remotely.*
 
 <br />
