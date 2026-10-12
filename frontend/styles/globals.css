@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Estedad";
+    src: url("/fonts/Estedad.ttf") format("truetype");
+}
+
+* {
+    font-family: "Estedad", Tahoma, sans-serif !important;
+}
+
+body {
+    background-color: rgb(250, 250, 250);
+    user-select: none;
+    line-height: 1.6;
+    height: 100%;
+    width: 100%;
+}
+
+img,
+video {
+    width: 100%;
+}
+
+#PanelBodyLeftContainer::-webkit-scrollbar,
+#PanelBodyRightContainerCard::-webkit-scrollbar {
+    display: none !important;
+}
